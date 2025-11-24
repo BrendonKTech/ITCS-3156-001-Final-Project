@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+venv/
+.env/
+*.env
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+build/
+dist/
+*.egg-info/
+.cache/
